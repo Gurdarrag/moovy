@@ -1,10 +1,10 @@
 {
-  "name": "erb-splashscreen",
+  "name": "moovy",
   "version": "0.0.1-alpha",
-  "description": "A foundation for scalable desktop apps",
+  "description": "An epic movie manager",
   "license": "MIT",
   "author": {
-    "name": "ERB Splashscreen Maintainers",
+    "name": "Charles SANNIER",
     "email": "charlessannier@gmail.com"
   },
   "main": "./dist/main/main.js",

@@ -1,5 +1,5 @@
 {
-  "description": "A foundation for scalable desktop apps",
+  "description": "An epic movie manager",
   "keywords": [
     "electron",
     "boilerplate",
@@ -11,17 +11,17 @@
     "hot",
     "reload"
   ],
-  "homepage": "https://github.com/Gurdarrag/erb-splashscreen#readme",
+  "homepage": "https://github.com/Gurdarrag/moovy#readme",
   "bugs": {
-    "url": "https://github.com/Gurdarrag/erb-splashscreen/issues"
+    "url": "https://github.com/Gurdarrag/moovy/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gurdarrag/erb-splashscreen.git"
+    "url": "git+https://github.com/Gurdarrag/moovy.git"
   },
   "license": "MIT",
   "author": {
-    "name": "ERB Splashscreen Maintainers",
+    "name": "Charles SANNIER",
     "email": "charlessannier@gmail.com"
   },
   "contributors": [
@@ -184,8 +184,8 @@
     "webpack-merge": "^5.8.0"
   },
   "build": {
-    "productName": "ElectronReactSplashscreen",
-    "appId": "org.erb.ElectronReactSplashscreen",
+    "productName": "Moovy",
+    "appId": "org.erb.Moovy",
     "asar": true,
     "asarUnpack": "**\\*.{node,dll}",
     "files": [
@@ -243,8 +243,8 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "electron-react-boilerplate",
-      "repo": "electron-react-boilerplate"
+      "owner": "Gurdarrag",
+      "repo": "moovy"
     }
   },
   "devEngines": {
